@@ -1,6 +1,0 @@
-.
-..
-.DS_Store
-.localized
-Amy_Seo_FinalExam.rtf
-desktopls.txt
